@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Deeksha
 
-<!--
-**DeekshaGangwar7251/DeekshaGangwar7251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN)  
+Currently strengthening DSA and backend development  
+Preparing for internships and placements  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+- C++
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- Git & GitHub
+
+
+
+## Current Focus
+- Solving DSA problems consistently
+- Building full-stack web applications
+- Improving problem-solving and backend skills
+
+
+
+## Connect With Me
+- LeetCode: https://leetcode.com/u/deeksha_gangwar/
+- LinkedIn: https://www.linkedin.com/in/deeksha-gangwar-5842812aa/
+- GitHub: https://github.com/DeekshaGangwar7251

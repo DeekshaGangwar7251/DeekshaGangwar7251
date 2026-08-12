@@ -42,8 +42,14 @@ A full-stack EdTech platform for course management, authentication, enrollments,
 
 ### Connect With Me
 
-**Portfolio:** https://deeksha-portfolio2.vercel.app/
+### 🔗 Connect With Me
+
+**Portfolio:** [https://deeksha-portfolio2.vercel.app/]
+
 **LeetCode:** https://leetcode.com/u/deeksha_gangwar/
+
 **LinkedIn:** https://www.linkedin.com/in/deeksha-gangwar-5842812aa/
+
 **GitHub:** https://github.com/DeekshaGangwar7251
+
 

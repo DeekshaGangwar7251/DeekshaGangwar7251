@@ -1,4 +1,4 @@
-# Hi, I'm Deeksha 👋
+# Hi, I'm Deeksha 
 
 ### Full Stack Developer (MERN) | AI & GenAI Enthusiast
 
@@ -42,9 +42,7 @@ A full-stack EdTech platform for course management, authentication, enrollments,
 
 ### Connect With Me
 
-### 🔗 Connect With Me
-
-**Portfolio:** [https://deeksha-portfolio2.vercel.app/]
+**Portfolio:** https://deeksha-portfolio2.vercel.app/
 
 **LeetCode:** https://leetcode.com/u/deeksha_gangwar/
 

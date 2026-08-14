@@ -26,10 +26,10 @@ Git • GitHub • Postman • MongoDB Atlas • Cloudinary • Razorpay • Ren
 
 ### Featured Projects
 
-**GitSenseAI — AI-Powered GitHub Repository Analyzer**
+**GitSenseAI - AI-Powered GitHub Repository Analyzer**
 An AI-powered tool that analyzes GitHub repositories, generates technical reports, explores codebases, and enables natural-language conversations with repository code using LLMs and RAG.
 
-**StudyNotion — EdTech Platform**
+**StudyNotion - EdTech Platform**
 A full-stack EdTech platform for course management, authentication, enrollments, reviews, payments, and cloud-based media management.
 
 ### Current Focus
